@@ -1,0 +1,18 @@
+{
+  "recipes" : [ {
+    "description" : "This is simple test for recipe 1",
+    "imagePath" : "http://www.seriouseats.com/images/2017/02/20170228-pressure-cooker-recipes-roundup-09.jpg",
+    "name" : "A Test Recipe 1"
+  }, {
+    "description" : "This is simple test for the recipe 2",
+    "imagePath" : "http://www.seriouseats.com/images/2017/02/20170228-pressure-cooker-recipes-roundup-09.jpg",
+    "ingredients" : [ {
+      "amount" : 2,
+      "name" : "Buns"
+    }, {
+      "amount" : 1,
+      "name" : "Meat"
+    } ],
+    "name" : "A Test Recipe 2"
+  } ]
+}
